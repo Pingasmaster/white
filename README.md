@@ -1,8 +1,6 @@
 <div align="center">
-  # __Whats a compiler?__
+  <q><em>What's a compiler?</em></q>
 </div>
-
-## What's white?
 
 White is a set of no-nonsense tools for now (and a complete operating system when it'll be finished) that allows you to do the things you already do right now, but faster and cleaner.
 
